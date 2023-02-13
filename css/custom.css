@@ -10,7 +10,7 @@
   }
 
 body {
-    background-image: url(../../images/Background.jpg);
+    background-image: url(../images/Background.jpg);
     background-size: 30%;
     font-family: "Avenir Next Rounded Std";
 }
